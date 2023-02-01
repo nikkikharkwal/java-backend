@@ -3,6 +3,10 @@
 * [CRUD](https://github.com/nikkikharkwal/java-backend/tree/main/CRUD) 
 
   > A simple CRUD (Create, Read, Update, Delete) application using Java, Spring, and a MySQL database.
+  
+* [To Do List](https://github.com/nikkikharkwal/java-backend/tree/main/to-do%20list)
+ 
+    > A RESTful API for a to-do list application, where you can add, edit, and delete tasks in Java using the Spring Boot framework.
 
 ## Table of Contents
 
