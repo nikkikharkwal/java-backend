@@ -7,6 +7,13 @@
 * [To Do List](https://github.com/nikkikharkwal/java-backend/tree/main/to-do%20list)
  
     > A RESTful API for a to-do list application, where you can add, edit, and delete tasks in Java using the Spring Boot framework.
+    
+    
+   <!-- An e-commerce website where users can browse and purchase products. This can involve implementing payment gateways, shopping cart functionality, and order management. -->
+
+ <!-- A weather application that displays the current weather conditions for a specified location. -->
+
+<!-- A social media platform, like a basic version of Twitter or Facebook, where users can sign up, post updates, and interact with other users. -->
 
 ## Table of Contents
 
